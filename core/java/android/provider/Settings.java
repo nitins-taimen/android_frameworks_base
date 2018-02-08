@@ -4728,13 +4728,6 @@ public final class Settings {
         public static final String NAVBAR_DYNAMIC = "navbar_dynamic";
 
         /**
-         * Whether allowing pocket service to register sensors and dispatch informations.
-         *   0 = disabled
-         *   1 = enabled
-         * @author Carlo Savignano
-         * @hide
-         */
-        public static final String POCKET_JUDGE = "pocket_judge";
 
         /**
          * Change fonts for the system lockscreen clock widget
